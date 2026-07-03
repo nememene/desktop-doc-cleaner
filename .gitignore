@@ -1,0 +1,18 @@
+# Python dependencies
+pywin32>=306
+
+# Build (optional)
+# pyinstaller>=6.0
+
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
